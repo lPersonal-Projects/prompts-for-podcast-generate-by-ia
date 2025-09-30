@@ -15,7 +15,12 @@ Este repositório documenta um projeto desenvolvido durante uma live no YouTube 
 ## 🎧 Ouça um trecho do podcast
 
 <div align="center">
-  <audio src="./output/Ep1_Conceitos_basicos.mp3" controls title="Podcast - Conceitos Básicos"></audio>
+  <p>
+    Para ouvir, faça o download do episódio:
+    <a href="./output/Ep1_Conceitos_basicos.mp3" download>
+      Episódio 1 - Conceitos Básicos (.mp3)
+    </a>
+  </p>
 </div>
 
 ---
